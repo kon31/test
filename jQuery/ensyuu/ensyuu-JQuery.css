@@ -1,0 +1,130 @@
+.logo{
+    margin-left:20px;
+    margin-top:-30px;
+    margin-bottom:0px;
+    float:left;
+    width: 95%;
+    height:160px;
+}
+.logo img{
+    width: 440px;
+    height: 160px;
+}
+header{
+    margin-top:60px;
+    margin-bottom:5px;
+    margin-left:15px;
+    padding-left:10px;
+    padding-right:10px;
+    clear: left;
+    top:  0px;
+    left: 0px;
+    width: 97%;
+    height: 70px;
+    background-color:black;
+}
+header ul li{
+    margin-left:5px;
+    float: left;
+    list-style:none;
+    padding-right:18px;
+    padding-top:12px;
+    color:white;
+    font-size: 30px;
+}
+.left{
+    padding-bottom:10px;
+    padding-left: 10px;
+    float:left;
+    border: 5px solid blue;
+    width:70%;
+    height:2450px;
+}
+h1{
+    margin-top: 1px;
+    padding-left: 10px;
+    border-left: 5px solid black;
+    border-bottom:2px solid black;
+    font-size: 44px;
+    clear:left;
+}
+p{
+    margin-top:-10px;
+    font-size: 18px;
+}
+img{
+    margin-bottom:10px;
+    float:left;
+    width:100%;
+    height:750px;
+}
+h2{
+    margin-top:-5px;
+    margin-left:20px;
+    font-size:24px;
+    clear:left;
+}
+h3{
+    font-size:20px;
+    clear:left;
+}
+.box2{
+    margin-top:-10px;
+    width:100%;
+    height:590px;
+    background-color:lightgray;
+    text-align:center;
+}
+.box2 img{
+    height:210px;
+    width:270px;
+    margin:25px 10px 5px 0px;
+}
+.box2 .box_pic2{
+    display:inline-block;
+}
+.right{
+    padding-top:10px;
+    margin-left: 1px;
+    float:left;
+    border: 5px solid red;
+    width:28%;
+    height:2450px;
+}
+.title{
+    margin-left:5px;
+    margin-bottom:0px;
+    width:80%;
+    border-bottom:5px solid gray;
+    clear:left;
+}
+h4{
+    padding-top:10px;
+    margin-top:30px;
+    margin-bottom:0px;
+    font-size:30px;
+    clear:left;
+}
+h5{
+    margin-bottom:-40px;
+    margin-left:10px;
+    font-size:22px;
+    clear:left;
+}
+
+footer{
+    margin-top:2500px;
+    margin-left:15px;
+    padding-left:10px;
+    clear:left;
+    width:97%;
+    height:70px;
+    text-align:center;
+    background-color: black;
+}
+footer ul li{
+    padding-top:12px;
+    color:white;
+    font-size:30px;
+    list-style:none;
+}

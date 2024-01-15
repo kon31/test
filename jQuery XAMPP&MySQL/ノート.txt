@@ -1,0 +1,20 @@
+XMAPP
+
+http://localhost/phpmyadmin/index.php
+
+コントロールパネルはストップさせとくべきか？
+
+テーブル結合とは
+内部結合(inner join)とは
+外部結合(outer join)とは
+外部結合(left outer join right outer join)の違いとは
+副問い合わせとは
+
+PHP
+
+・アクセス修飾子（public/private/protected の違い）とは
+・this とは
+・例外処理（try catch 文）とは
+・インポート（import 文）とは
+
+;mbstring.func_overload 0 が存在しない

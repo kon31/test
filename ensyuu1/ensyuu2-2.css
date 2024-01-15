@@ -1,0 +1,10 @@
+.left{
+    display:inline-block;
+    width:500px;
+    background-color:lightgray;
+}
+.right{
+    display:inline-block;
+    width:500px;
+    background-color:skyblue;
+}
